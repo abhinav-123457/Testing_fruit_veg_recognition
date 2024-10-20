@@ -26,8 +26,8 @@ The dataset is preprocessed using image augmentation techniques to improve the g
    git clone https://github.com/yourusername/fruit-veg-recognition.git
    cd fruit-veg-recognition
 ## Usage 
-Load the model :- tarined_model.h5
-Change :- The path of the dataset and model according to you in google colab
+1. Load the model :- tarined_model.h5
+2. Change :- The path of the dataset and model according to you in google colab
 
 ## Model Architecture 
 The model is built using a Convolutional Neural Network (CNN) architecture, consisting of the following layers:
