@@ -41,3 +41,12 @@ The model was trained on the dataset for 32 epochs and achieved the following re
 
 1. Training accuracy: 92.4472918510437 %
 2. Validation accuracy: 93.4472918510437 %
+
+## Contributing
+We welcome contributions! If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a feature branch: git checkout -b feature-name.
+3. Commit your changes: git commit -m 'Add feature'.
+4. Push to the branch: git push origin feature-name.
+5. Open a pull request.
