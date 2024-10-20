@@ -10,7 +10,6 @@ This repository contains the code and data for a **Fruit and Vegetable Recogniti
 - [Model Architecture](#model-architecture)
 - [Results](#results)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This project is focused on identifying different types of fruits and vegetables using deep learning techniques. The model utilizes image classification to differentiate various categories of produce. The code for testing the trained model is provided in the file `testing_fruit_veg_recognition.py`.
