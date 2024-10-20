@@ -39,5 +39,5 @@ The model is built using a Convolutional Neural Network (CNN) architecture, cons
 ## Result
 The model was trained on the dataset for 32 epochs and achieved the following results:
 
-Training accuracy: 92.4472918510437%
-Validation accuracy: 93.4472918510437 %
+1. Training accuracy: 92.4472918510437%
+2. Validation accuracy: 93.4472918510437%
