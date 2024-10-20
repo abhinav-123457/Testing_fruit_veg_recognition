@@ -7,7 +7,6 @@ This repository contains the code and data for a **Fruit and Vegetable Recogniti
 - [Dataset](#dataset)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Testing](#testing)
 - [Model Architecture](#model-architecture)
 - [Results](#results)
 - [Contributing](#contributing)
@@ -26,4 +25,13 @@ The dataset is preprocessed using image augmentation techniques to improve the g
    ```bash
    git clone https://github.com/yourusername/fruit-veg-recognition.git
    cd fruit-veg-recognition
-## Usage
+## Usage 
+Load the model :- tarined_model.h5
+Change :- The path of the dataset and model according to you in google colab
+
+## Model Architecture 
+The model is built using a Convolutional Neural Network (CNN) architecture, consisting of the following layers:
+
+1. Convolutional layers: Extract features from the images using filters.
+2. Pooling layers: Reduce the spatial dimensions of the feature maps to prevent overfitting.
+3. Fully connected layers: Combine the extracted features to classify the input into one of the predefined categories.
